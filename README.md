@@ -1,2 +1,2 @@
-# git-learnig
-this is for lear git
+# git-learning
+this is for learn git
